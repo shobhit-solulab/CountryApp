@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CountryApp</string>
+    <string name="flag_image">flag Image</string>
+</resources>
